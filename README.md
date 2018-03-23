@@ -2,7 +2,7 @@
 <ul>
 <li>Aim is to provide a forum in Luxembourg for people on the "business" end of the spectrum to get to know programming a little better</li>
 <li>You'll need your own laptop probably for this</li>
-  <li>All data here is <strong>Fully Public</strong>. Don't use this for confidential stuff</li>
+  <li>All data here is <strong><u><font color=red>Fully Public</font></u></strong>. Don't use this for confidential stuff</li>
 
 
 <h1>Resources</h1>
