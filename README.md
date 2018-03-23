@@ -13,6 +13,7 @@
 <h2>Tools</h2>
 <ul>
 <li> <a href="https://pairforce.io/">Pairforce.io</a></li>
-<li> <a href="https://repl.it/">REPL.it</a></li>
-<li> <a href="https://chocolatey.org/">Chocolatey package manager</a></li>
+  <li> <a href="https://repl.it/">REPL.it</a></li>
+<li> <a href="https://rstudio.cloud">R Studio on the Cloud</a></li>  
+  <li> <a href="https://chocolatey.org/">Chocolatey package manager</a></li>
 </ul>
