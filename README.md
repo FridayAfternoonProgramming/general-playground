@@ -1,6 +1,7 @@
 # general-playground
-
-* Aim is to provide a forum in Luxembourg for people on the "business" end of the spectrum to get to know programming a little better
+<ul>
+<li>Aim is to provide a forum in Luxembourg for people on the "business" end of the spectrum to get to know programming a little better</li>
+<li>You'll need your own laptop probably for this</li>
 
 
 <h1>Resources</h1>
